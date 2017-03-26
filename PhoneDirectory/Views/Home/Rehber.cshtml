@@ -1,0 +1,53 @@
+﻿@model IEnumerable<PhoneDirectory.Models.Employee>
+
+@{
+    ViewBag.Title = "Rehber";
+    Layout = "~/Views/Shared/main_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Rehber</title>
+    <link href="~/Styles/style.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <table class="table">
+        <tr class="headerContainer">
+            <th class="TableHeader">
+                Ad
+            </th>
+            <th class="TableHeader">
+                Soyad
+            </th>
+            <th class="TableHeader">
+                Telefon Numarası
+            </th>
+            <th class="TableHeader"></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr class="itemsContainer">
+                <td class="itemsCell">
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td class="itemsCell">
+                    @Html.DisplayFor(modelItem => item.surname)
+                </td>
+                <td class="itemsCell">
+                    @Html.DisplayFor(modelItem => item.phoneNumber)
+                </td>
+                <td class="DeatilsCell">
+                    |
+                    @Html.ActionLink("Detay", "Details", new { id = item.ID }) |
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>
+

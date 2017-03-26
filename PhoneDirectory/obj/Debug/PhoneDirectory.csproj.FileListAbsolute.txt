@@ -1,0 +1,150 @@
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\ApplicationInsights.config
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\csc.exe
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\vbc.exe
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\VBCSCompiler.exe
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll.config
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.pdb
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.DependencyCollector.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Web.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.WindowsServer.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.ApplicationInsights.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.Web.Infrastructure.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Helpers.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Mvc.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Razor.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Deployment.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Razor.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.DependencyCollector.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Web.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.WindowsServer.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.ApplicationInsights.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Razor.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Deployment.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Razor.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Helpers.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Mvc.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.dll
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.xml
+D:\Rehber Proje\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\ApplicationInsights.config
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\csc.exe
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\vbc.exe
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\VBCSCompiler.exe
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll.config
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.pdb
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.DependencyCollector.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Web.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.WindowsServer.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.ApplicationInsights.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.Web.Infrastructure.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Helpers.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Mvc.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Razor.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Deployment.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Razor.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.DependencyCollector.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Web.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.WindowsServer.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.ApplicationInsights.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Razor.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Deployment.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Razor.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Helpers.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Mvc.xml
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.dll
+D:\Rehber Proje - Berkay Çelik\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\ApplicationInsights.config
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\csc.exe
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\System.Collections.Immutable.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\System.Reflection.Metadata.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\vbc.exe
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\VBCSCompiler.exe
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\roslyn\VBCSCompiler.exe.config
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll.config
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\PhoneDirectory.pdb
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Agent.Intercept.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.DependencyCollector.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Web.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.WindowsServer.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.ApplicationInsights.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.Web.Infrastructure.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Helpers.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Mvc.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Razor.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Deployment.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Razor.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\EntityFramework.SqlServer.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.DependencyCollector.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.Web.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.AI.WindowsServer.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.ApplicationInsights.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Razor.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Deployment.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Webpages.Razor.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Helpers.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\bin\System.Web.Mvc.xml
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojResolveAssemblyReference.cache
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.dll
+D:\çalışmalar\PROJELER\Nuevo Staj Projesi\RehberProje\Kodlar\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb

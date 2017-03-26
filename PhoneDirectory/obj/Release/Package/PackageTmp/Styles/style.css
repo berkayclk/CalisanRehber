@@ -1,0 +1,240 @@
+﻿body {
+    background-image:url("../Images/background.jpg");
+}
+/*Rehber TABLE STYLES */
+.table{
+    
+    border: 3px solid #598fbe;
+    margin : 0 auto;
+}
+.headerContainer{
+    height:30px;
+    margin: 5px;
+}
+.itemsContainer{
+    height:25px;
+    margin: 5px;
+}
+.itemsContainer:hover{
+    height:25px;
+    margin: 5px;
+    background-color:rgba(0, 0, 0, 0.54)
+}
+.TableHeader{
+    width:121px;
+    text-align:left;
+    color:#598fbe;
+    background-color:rgba(0, 0, 0, 0.54)
+    
+}
+.itemsCell{
+    width:121px;
+    color:white;
+    background-color:rgba(0, 0, 0, 0.54)
+}
+.DeatilsCell{
+    text-align:center;
+    width:121px;
+    color:white;
+    background-color:rgba(0, 0, 0, 0.54)
+
+}
+/*End Rehber TABLE STYLES */
+
+/*Main_Layout Style*/
+.menu{
+    text-align:center;
+    overflow:hidden;
+}
+.buttons{
+    width: 120px;
+    height: 45px;
+    margin-top:7px;
+    margin-right:5px;
+    float:right;
+}
+.button{
+   margin-right:2px;
+   width:115px;
+}
+.logo{
+    float:left;
+    width:75px;
+    height:50px
+}
+
+/*END Main_Layout Style*/
+
+/*login style*/
+
+.loginContainer{
+    width:400px;
+    height:300px;
+    text-align:center;
+    margin: 0 auto;
+    border-radius: 4px;
+    background-color:rgba(0, 0, 0, 0.54);
+    margin-top:70px;
+
+}
+.loginContainer img {
+    width:120px;
+    height:120px;
+    margin-top:-60px;
+    margin-bottom:30px;
+}
+.gp{
+    color:white;
+}
+.gp label{
+    width: 50px;
+    margin:0px;
+    float:left;
+    margin-left:30px;
+    height:35px;
+    line-height:35px;
+}
+.gp input{
+    width: 200px;
+    margin-right:30px;
+    float:right;
+}
+.loginContainer button {
+    float: right;
+    width:80px;
+    height:50px;
+    margin-top: 25px;
+    margin-right: 30px;
+}
+
+/*end login style*/
+
+/* details style*/
+
+.detailsHeader{
+     background-color:rgba(0, 0, 0, 0.44);
+     color:#598fbe;
+     font-weight:bold;
+}
+
+.detailsTable{
+     background-color:rgba(0, 0, 0, 0.44);
+}
+.detailsTable dt{
+    color:#598fbe;
+    padding: 5px;
+
+}
+.detailsTable dd{
+    color:white;
+    padding: 5px;
+}
+.details p {
+    width:150px;
+    background-color:rgba(0, 0, 0, 0.44);
+}
+
+/*end details style*/
+
+/* admin style*/
+.adminMenu{
+    padding:10px;
+    height:70px;
+    background-color:rgba(0, 0, 0, 0.64);
+}
+.adminButtons{
+    width: 860px;
+    height: 45px;
+    margin:0 auto;
+}
+.adminButton{
+     margin-right:2px;
+     height:50px;
+     width:150px;
+     font-weight: bold;
+     color:white;
+}
+.adminButton:hover{
+    border-radius:15px;
+}
+.adminButton:focus{
+    border-radius:50px;
+}
+
+.adminButton a{
+   font-weight:bold;
+   color:black;
+}
+.adminButton a:hover{
+   color:black;
+}
+.adminButton a:active{
+   color:rgba(0, 0, 0, 0.45);
+}
+.adminInfo{
+    color:#c7a0a0;
+    float:right;
+    height: 50px;
+    line-height:50px;
+}
+
+/* end admin style*/
+
+/*error style*/
+
+.errorContainer{
+    background-color:rgba(0, 0, 0, 0.64);
+    color:wheat;
+    font-weight:bold;
+    text-align:center;
+
+}
+.errorContainer a{
+    font-size:18px;
+    float:left;
+    background-color:rgba(0, 0, 0, 0.64);
+}
+/*end error style*/
+
+/*frm style*/
+.frm-container{
+    background-color:rgba(0, 0, 0, 0.64);
+    padding: 10px;
+}
+.frm-container h2{
+    color:#598fbe;
+    font-weight:bold;
+}
+.frm-container h5{
+    color:#598fbe;
+}
+.frm-container label{
+    color:#598fbe;
+    height:35px;
+    line-height:20px;
+}
+.frm-group{
+    width: 500px;
+    height:50px;
+    padding:5px;
+}
+.frm-control-container{
+    width:300px;
+}
+
+.frm-container .text-box{
+    width: 250px;
+    height: 35px;
+
+}
+.frm-container select{
+    width: 250px;
+    height:35px;
+}
+.backLink a{
+     font-size:14px;
+    float:left;
+    background-color:rgba(0, 0, 0, 0.64);
+}
+
+/*end frm style*/

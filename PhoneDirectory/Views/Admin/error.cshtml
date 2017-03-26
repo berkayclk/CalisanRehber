@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "HATA";
+    Layout = "~/Views/Shared/adminPage_Layout.cshtml";
+}
+<div class="errorContainer">
+    <h2>SİLME İŞLEMİ BAŞARISIZ</h2>
+    <h2>HATA : @TempData["error"] </h2>
+    @Html.ActionLink("<-- Geri Dön", "Index", "Admin")
+</div>
+
+

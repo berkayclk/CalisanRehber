@@ -1,0 +1,60 @@
+﻿@model PhoneDirectory.Models.Admins
+
+@{
+    ViewBag.Title = "Admin Güncelle";
+    Layout = "~/Views/Shared/adminPage_Layout.cshtml";
+}
+
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal frm-container">
+        <h2>Admin Hesabı Güncelleme </h2>
+        <h5>(*) Doldurulması Zorunlu Alan  </h5>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.username,"Kullanıcıadı (*)",htmlAttributes: new { @class = "control-label col-md-2 usernameLbl" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.username, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.username, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.password, "Şifre (*)", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.employeeID, "İlişkili Çalışan", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.employeeID, new SelectList((new PhoneDirectory.Models.PhoneDirectoryEntities()).Employee, "ID", "Name",Convert.ToInt32(Session["adminEmpID"])))
+                @Html.ValidationMessageFor(model => model.employeeID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="KAYDET" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div class="backLink">
+    @Html.ActionLink("<-- Geri Dön", "Index")
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

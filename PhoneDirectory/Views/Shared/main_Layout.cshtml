@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Styles/style.css" type="text/css" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" type="text/css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="container"> 
+        <div class="navbar navbar-inverse navbar-static-top  menu" >
+        <div class="logo">
+            <img src="~/Images/directoryLogo.png" width="70" height="50"/>
+        </div>
+        <div class="buttons">
+            @if (Convert.ToBoolean(ViewData["isAtRehber"]))
+            {
+                if (Session["admin"] != null && Session["admin"].ToString() == "1")
+                {
+                    <button class="btn btn-default button">@Html.ActionLink("ADMİN PANELİ", "Index", "Admin") </button>
+                }
+                else
+                {
+                    <button class="btn btn-default button">@Html.ActionLink("ADMİN GİRİŞİ", "LogIn", "Home") </button>
+                }
+
+            }
+            else
+            {
+                <button class="btn btn-default button" type="submit" align="Right">@Html.ActionLink("REHBER", "Rehber", "Home")</button>
+                
+            }
+          
+        </div>
+                
+        </div>
+
+        @RenderBody()
+    </div>
+</body>
+</html>

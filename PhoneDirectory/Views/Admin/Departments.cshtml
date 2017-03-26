@@ -1,0 +1,44 @@
+﻿@model IEnumerable<PhoneDirectory.Models.Department>
+
+@{
+    ViewBag.Title = "Departman Listesi";
+    Layout = "~/Views/Shared/adminPage_Layout.cshtml";
+}
+
+<p>
+    <button class="btn btn-primary adminButton">@Html.ActionLink("Departman Ekle", "addDepartments") </button>
+   
+</p>
+
+<table class="table">
+    <tr class="headerContainer">
+        <th class="TableHeader">
+            Departman
+        </th>
+        <th class="TableHeader">
+            Şehir
+        </th>
+        <th class="TableHeader"></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="itemsContainer">
+            <td class="itemsCell">
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td class="itemsCell">
+                @Html.DisplayFor(modelItem => item.location)
+            </td>
+           
+            <td class="DeatilsCell">
+                @Html.ActionLink("DÜZENLE", "editDepartment", new { id = item.ID }) |
+                @Html.ActionLink("SİL", "deleteDepartment", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+

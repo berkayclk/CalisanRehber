@@ -1,0 +1,98 @@
+﻿@model PhoneDirectory.Models.Employee
+
+@{
+    ViewBag.Title = @Html.ValueFor(model => model.name).ToString() +" "+ @Html.ValueFor(model => model.surname).ToString() + "DETAY";
+    Layout = "~/Views/Shared/main_Layout.cshtml";
+    
+}
+
+
+
+<div class="details">
+    <div class="detailsHeader">
+        <h2>Çalışan Detayları</h2>
+        <h4>@Html.ValueFor(model => model.name).ToString()  @Html.ValueFor(model => model.surname).ToString() </h4>
+    </div>
+   
+    <hr />
+    <dl class="dl-horizontal detailsTable">
+        <dt >
+           Ad : 
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.name)
+
+        <dt >
+            Soyad :
+        </dt >
+        <dd >
+            @Html.DisplayFor(model => model.surname)
+        </dd>
+       <dt >
+          Telefon :
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.phoneNumber)
+        </dd>
+       <dt >
+           Departman :
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.Department.name)
+        </dd>
+        <dt>
+            Şehir :
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Department.location)
+        </dd>
+        <dt>
+            Kıdem :
+        </dt>
+       
+        @{
+            switch (PhoneDirectory.Utils.Details.getSeniority(Model))
+            {
+                case 2:
+                    <dd>
+                        Çalışan
+                    </dd>
+                    break; 
+
+                case 1:
+                    <dd>
+                        Müdür
+                    </dd>
+                    break;
+                case 0:
+                    <dd>
+                        Genel Müdür
+                    </dd>
+                    break;
+                default:
+                    <dd>
+                        <h1>Çalışan</h1>
+                    </dd>
+                    break;
+            }
+        }
+
+
+        @if(PhoneDirectory.Utils.Details.haveManager(Model))
+        {
+            <dt>
+                Yöneticisi :
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Employee2.name) @Html.DisplayFor(model => model.Employee2.surname)
+            </dd>
+            
+        }
+           
+
+    </dl>
+    <p>
+        | @Html.ActionLink("< -- Rehbere Geri Dön", "Rehber")
+    </p>
+</div>
+

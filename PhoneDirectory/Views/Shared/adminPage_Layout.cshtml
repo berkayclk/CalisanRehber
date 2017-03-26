@@ -1,0 +1,21 @@
+﻿
+@{
+    Layout = "~/Views/Shared/main_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="navbar  navbar-static-top  adminMenu">
+        <div class="adminButtons">
+            
+            <button class="btn btn-primary adminButton">@Html.ActionLink("ÇALIŞANLAR", "Index", "Admin") </button>
+            <button class="btn btn-primary adminButton">@Html.ActionLink("DEPARTMANLAR", "Departments", "Admin") </button>
+            <button class="btn btn-primary adminButton">@Html.ActionLink("Şifre Değiştir", "changePass",new { id=Convert.ToInt32(Session["adminID"]) }) </button>
+            <button class="btn btn-danger adminButton ">@Html.ActionLink("ÇIKIŞ", "Exit", "Admin", new { @class = "exitLink" }) </button>
+            <span class="adminInfo">@PhoneDirectory.Utils.Details.getAdmin(Convert.ToInt32(Session["adminEmpID"]))</span>
+        </div>
+       
+    </div>
+
+    @RenderBody()
+</div>
+
