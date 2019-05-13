@@ -1,4 +1,4 @@
-## CalisanRehber
+## EmployeeContact
 
 This project is built for a internship  application. Basicly, You can log and manage  contact information of employees. 
 
